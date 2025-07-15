@@ -6,7 +6,7 @@ I'm a passionate developer who loves crafting efficient and engaging digital exp
 
 ## 🚀 About Me<br>
 
-🎓 Currently finishing my studies, specializing in software development.<br>
+🎓 Currently finishing my studies, specializing in software engineering.<br>
 🌍 French native based in Paris.<br>
 💻 Experienced in **Golang, Python, C++, Dart, and JavaScript**.<br>
 🤖 Interested in **AI, machine learning, and innovative tech**.<br>
